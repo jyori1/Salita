@@ -13,4 +13,4 @@ My app Salita aims to educate people, regardless of their background, about the 
 
 You can see the prototype through here: https://www.figma.com/file/2J2oaJBTTiW1qYTlWWJxRy/%5BCSNYC22%5D-Jo-AnneRivera_Salita?node-id=0%3A1
 
-NOTE: Case study has limited information due to the 3-minute time limit alotted during presentations.
+NOTE: Case study has limited information due to the 3-minute time limit alotted for delivering pitches.
